@@ -1,6 +1,6 @@
 exports.doctype = 'html';
 
-exports.happy = true;
+exports.happy = false;
 
 exports.sitemap = [
   {
